@@ -1,2 +1,2 @@
 # waterline_extraction
-This respository is used for the management to the code files for the task of waterline extraction.
+This repository is used to manage the code files for the waterline extraction task.
